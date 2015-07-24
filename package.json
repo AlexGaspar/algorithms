@@ -1,0 +1,27 @@
+{
+  "name": "algorithms",
+  "version": "0.0.0",
+  "description": "Javascript implementation of Algorithm Design Manual",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "~3.2.0",
+    "root-require": "~0.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/AlexGaspar/algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexGaspar/algorithms/issues"
+  },
+  "homepage": "https://github.com/AlexGaspar/algorithms"
+}
