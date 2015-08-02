@@ -13,6 +13,7 @@ module.exports = function (input) {
   // Start at 1 since we cannot swap the first element with nothing
   for(var i = 1; i < n; i++ ) {
     var j = i;
+
     while  ((j > 0) && (input[j] < input[j-1])) {
       var temp = input[j];
       input[j] = input[j-1];
