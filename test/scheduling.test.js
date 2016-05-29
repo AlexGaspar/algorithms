@@ -4,7 +4,7 @@
 var expect = require('chai').expect;
 
 var scheduling = require('root-require')('scheduling/index');
-var fixtures   = require('../fixtures/scheduling/index');
+var fixtures   = require('./fixtures/scheduling/index');
 
 
 describe('Scheduling probleme', function () {
